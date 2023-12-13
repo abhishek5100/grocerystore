@@ -1,0 +1,40 @@
+.addtocart{
+    background:linear-gradient(135deg, #ff6000 0%,#f5bb50 100%);
+    margin-left: 8rem;
+    border: none;
+    font-size: 0.8rem;
+    color: white;
+}
+.heartbtn{
+    background-color:orange;
+    color:white;
+     border:none;
+     margin-top: 0.5rem;
+      border-radius:.3rem;
+      margin-left:86%;
+       margin-bottom:5px;
+}.rate-btn{
+    position: absolute;
+font-size:.7rem;
+color:white; 
+border:none;
+background-color:green;
+margin-top: 0.5rem;
+}
+@media  screen and (max-width:1000px){
+    .addtocart{
+        margin-left: 11rem;
+        border: none;
+        font-size: 0.8rem;
+        color: white;
+    }
+    .heartbtn{
+        /* position: absolute; */
+        background-color:orange;
+        color:white;
+         border:none;
+          border-radius:.3rem;
+          margin-left:80%;
+           margin-bottom:5px;
+    }
+}

@@ -1,0 +1,10 @@
+.sliderimg{
+    width: 5rem;
+
+
+}.img{
+    width: fit-content !important;
+    padding: 2rem;
+    justify-content: center;
+    text-align:-webkit-center;
+}
